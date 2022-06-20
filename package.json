@@ -50,5 +50,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://dev-bakery.github.io/Nomflix/"
+  "homepage": "https://dev-bakery.github.io/Nomflix/",
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
 }
